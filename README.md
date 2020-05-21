@@ -22,6 +22,7 @@ Requisitos:
 Para instalar python puedes usar en linux esto en la consola "sudo apt-get install python3.x"
 En windows puedes realizar la instalación de python descargando el instalador en " https://www.python.org/download/releases/3.0/ " 
 
+Una vez hecho esto ejecutas el archivo main.pyw.
 Para su uso clickas en las opciones de menu principal para escojer la calculadora del curso que desees y la usas.
 
 En caso de problemas comentalo mi pagina de github en la cual tengo el proyecto compartido > "https://github.com/mateorivelasantos/Calc_IES/"
