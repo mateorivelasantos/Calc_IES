@@ -7,7 +7,17 @@ Obviamente , cuanto mayor sea el curso , mas funciones tendrá la calculadora.
 
 Para la instalacion del programa puedes descargarlo en > Futura_URL.git
 
-Debes tener la version de python 3.x.
+Requisitos:
+
+  -Debes tener la version de python 3.x.
+  -Modulos Pillow, ImageTk ,PhotoImage e Image instalados.
+ 
+ Si instalas python, normalmente la mayoriá de estos suelen venir con este, pero Pillow e ImageTk no, asique si tiene fallos prueba a instalarlos,para ello:
+      Si usa Linux prueba con >
+          -sudo apt install python3-pil
+          -sudo apt install python3-pil.imagetk
+      Si usa windows prueba con>
+          -pip install PIL o pip install Pillow
 
 Para instalar python puedes usar en linux esto en la consola "sudo apt-get install python3.x"
 En windows puedes realizar la instalación de python descargando el instalador en " https://www.python.org/download/releases/3.0/ " 
@@ -15,3 +25,4 @@ En windows puedes realizar la instalación de python descargando el instalador e
 Para su uso clickas en las opciones de menu principal para escojer la calculadora del curso que desees y la usas.
 
 En caso de problemas comentalo mi pagina de github en la cual tengo el proyecto compartido > "https://github.com/mateorivelasantos/Calc_IES/"
+
