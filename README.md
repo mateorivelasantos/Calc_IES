@@ -7,7 +7,7 @@ Obviamente , cuanto mayor sea el curso , mas funciones tendrá la calculadora.
 
 Para la instalacion del programa puedes descargarlo en > https://github.com/mateorivelasantos/Calc_IES.git 
 
-Requisitos:
+Requisitos para ejecutarlo con python > 
 
   -Debes tener la version de python 3.x.
   -Modulos Pillow,PhotoImage e Image instalados.
@@ -19,6 +19,9 @@ Requisitos:
       Si usa windows prueba con>
           -pip install PIL o pip install Pillow
           -pip install Image
+
+Requisitos para ejecutarlo con windows(.exe)
+Simplemente doble click en el archivo Calc.exe , el único con icono.
 
 Para instalar python puedes usar en linux esto en la consola "sudo apt-get install python3.x"
 En windows puedes realizar la instalación de python descargando el instalador en " https://www.python.org/download/releases/3.0/ " 
